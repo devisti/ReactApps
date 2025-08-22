@@ -1,0 +1,20 @@
+.card {
+    width: 280px;
+    height: 280px;
+    border-radius: 11px;
+    background-color: lightgrey;
+    padding: 22px;
+}
+
+.card h2 {
+    font-size: 22px;
+}
+
+.card p {
+    padding-top: 22px;
+    font-size: 14px;
+}
+.card:hover{
+    background-color: rgb(15, 74, 79);
+    cursor: pointer;
+}

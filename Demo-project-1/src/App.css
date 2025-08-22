@@ -1,0 +1,34 @@
+.main-container {
+    width: 100%;
+    padding: 0 88px;
+}
+
+.card-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+    margin-top: 200px;
+
+}
+
+.heading-1-wrapper {
+    width: 100%;
+    height: 100vh;
+    margin-top: 15%;
+}
+
+.heading-1-wrapper span {
+    color: rgb(91, 29, 29);
+}
+
+.heading-1 {
+    font-size: 160px;
+    text-align: center;
+}
+
+#home {
+    width: 100%;
+    height: 1px;
+}

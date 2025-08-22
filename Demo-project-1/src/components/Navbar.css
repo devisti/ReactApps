@@ -1,0 +1,24 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #333333;
+    color: #c8c4c4;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 110px;
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+    gap: 55px;
+    align-items: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #c8c4c4;
+}

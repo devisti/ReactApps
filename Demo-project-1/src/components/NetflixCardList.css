@@ -1,0 +1,15 @@
+.image-wrapper {
+    width: 100%;
+    display: flex;
+    gap: 22px;
+    padding-top: 100px;
+    overflow-x: scroll;
+    list-style-type: none;
+}
+
+.image-wrapper img {
+    border-radius: 11px;
+}
+.image-wrapper img:hover{
+    cursor: pointer;
+}
