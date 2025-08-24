@@ -23,3 +23,6 @@
     text-decoration: none;
     color: #c8c4c4;
 }
+.navbar a:active{
+    color: grey;
+}
